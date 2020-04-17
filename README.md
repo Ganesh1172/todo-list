@@ -2,7 +2,7 @@
 
 ### Commands used to publish react files in github:
 ```
-git remote set-url origin https://ganesh1172.github.io/todo-app/
+git remote set-url origin https://github.com/Ganesh1172/todo-list
 npm run build
 npm run deploy
 ```
