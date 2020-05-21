@@ -1,9 +1,18 @@
-## Todo App using React JS
+## Todo List using React JS
 
-### Commands used to publish react files in github:
+>### How to use:
+
+>#### Clone repo and add in your system
 ```
-git remote set-url origin https://github.com/Ganesh1172/todo-list
-npm run build
-npm run deploy
+$ git clone https://github.com/ganesh1172/todo-list.git
 ```
-### The published To-do App: https://ganesh1172.github.io/todo-list/
+>#### Add node package manager to install packages
+```
+$ npm install
+```
+>#### To run project 
+```
+$ npm start
+```
+
+#### The published To-do List: (https://ganesh1172.github.io/todo-list/)
